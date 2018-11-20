@@ -1,3 +1,3 @@
 <?php
-  echo "Hello world, get ready for me!";
+  echo "Hello world, you're not ready for me!... or maybe you are?";
 ?>
