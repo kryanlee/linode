@@ -1,3 +1,3 @@
 <?php
-  echo "Hello world, go fuck yourself!";
+  echo "Hello world, get ready for me!";
 ?>
